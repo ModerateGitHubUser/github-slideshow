@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Distraction Dance"
 ---
-Your text
+You Have Been Distracted
 Use the left arrow to go back!
